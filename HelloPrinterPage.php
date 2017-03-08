@@ -11,3 +11,4 @@ $planet2Display = $_GET["planet"];
 echo"Hello {$planet2Display}";?>
 
 <input type = button name="back" value="Back">
+<a href="Index.php">Back<a>
