@@ -1,10 +1,3 @@
-/**
- * Created by PhpStorm.
- * User: ToSzi
- * Date: 3/8/2017
- * Time: 6:30 PM
- */
-
 <!DOCTYPE html>
 <html lang="eng">
     <head>
