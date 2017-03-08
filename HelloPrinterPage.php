@@ -6,6 +6,6 @@
  * Time: 6:37 PM
  */
 
-$planet2Display = $_GET[$planet];
+$planet2Display = $_GET["planet"];
 
 echo"Hello {$planet2Display}";
